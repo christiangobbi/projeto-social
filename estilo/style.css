@@ -31,5 +31,12 @@ main {
     width: 320px;
     height: 640px;
     background: url("../imagens/smartphone-150753_640.webp") no-repeat;
+}
 
+#tela {
+    position: relative;
+    top: 76px;
+    left: 30px;
+    width: 256px;
+    height: 432px;
 }
